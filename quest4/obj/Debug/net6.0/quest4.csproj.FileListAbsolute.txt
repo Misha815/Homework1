@@ -1,0 +1,15 @@
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.csproj.AssemblyReference.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.AssemblyInfoInputs.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.AssemblyInfo.cs
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.csproj.CoreCompileInputs.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\bin\Debug\net6.0\quest4.exe
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\bin\Debug\net6.0\quest4.deps.json
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\bin\Debug\net6.0\quest4.runtimeconfig.json
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\bin\Debug\net6.0\quest4.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\bin\Debug\net6.0\quest4.pdb
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\refint\quest4.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.pdb
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\quest4.genruntimeconfig.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest4\obj\Debug\net6.0\ref\quest4.dll
