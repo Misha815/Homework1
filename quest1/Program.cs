@@ -1,5 +1,8 @@
-﻿Console.WriteLine("EX1");
+﻿//Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+Console.WriteLine("EX1");
 Console.WriteLine("Введите два значения и нажмите Enter:");
+
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 
