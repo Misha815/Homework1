@@ -1,0 +1,15 @@
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\bin\Debug\net6.0\quest1.exe
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\bin\Debug\net6.0\quest1.deps.json
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\bin\Debug\net6.0\quest1.runtimeconfig.json
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\bin\Debug\net6.0\quest1.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\bin\Debug\net6.0\quest1.pdb
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.csproj.AssemblyReference.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.AssemblyInfoInputs.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.AssemblyInfo.cs
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.csproj.CoreCompileInputs.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\refint\quest1.dll
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.pdb
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\quest1.genruntimeconfig.cache
+C:\Users\mshas\OneDrive\Рабочий стол\Homework CS\quest1\obj\Debug\net6.0\ref\quest1.dll
