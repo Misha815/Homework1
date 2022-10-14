@@ -2,14 +2,11 @@
 
 Console.WriteLine("Какое будет число?:");
 
-int a = Convert.ToInt32(Console.ReadLine());
-
-int current = 0;
-int i;
-
-while (current < a) {
-if (current%2 == 0){
-    Console.WriteLine($"{current}");
+int num = int.Parse(Console.ReadLine());
+int even = 0;
+for (int i = even; i <= num; i++)
+{
+    if(i % 2 == 0){
+        Console.WriteLine(i);
+    }
 }
-current++;}
-
